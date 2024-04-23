@@ -5,6 +5,6 @@ import languagebind
 
 setup(
     name='languagebind',
-    version=languagebind.__version__
+    version=languagebind.__version__,
     packages=find_packages(),
 )
