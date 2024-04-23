@@ -27,7 +27,7 @@ from .thermal.modeling_thermal import LanguageBindThermal
 from .thermal.tokenization_thermal import LanguageBindThermalTokenizer
 from .thermal.processing_thermal import LanguageBindThermalProcessor
 
-
+__version__ = '1.0'
 
 config_dict = {
     'thermal': LanguageBindThermalConfig,
